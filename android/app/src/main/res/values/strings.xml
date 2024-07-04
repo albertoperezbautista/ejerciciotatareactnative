@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Frenec</string>
+<!-- 
+    <string name="facebook_app_id">1684413918730039</string>
+    <string name="fb_login_protocol_scheme">fb1684413918730039</string>
+    <string name="facebook_client_token">e3e67fb4d47f34a05a2db69d0486c279</string>
+     -->
+
+         <string name="facebook_app_id">7030360627071375</string>
+    <string name="fb_login_protocol_scheme">fb7030360627071375</string>
+    <string name="facebook_client_token">c3c342695140e7ef1c8c6f739d9f2f57</string> 
+
+
+<string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+<string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+
+
+</resources>
